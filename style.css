@@ -40,9 +40,10 @@ input[type=submit]:hover {
 
   padding: 0px;
     display: flex;
-    background: url(https://w.wallhaven.cc/full/45/wallhaven-45er34.jpg) no-repeat center;
+    background: url(https://w.wallhaven.cc/full/3z/wallhaven-3zgz2y.png
+      ) no-repeat center;
     height: 100px;
-    min-height: 700px;
+    min-height: 950px;
     background-size: cover;
     background-attachment: fixed;
     font-family: 'arial';
